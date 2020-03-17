@@ -1,7 +1,7 @@
 function exportPSTexcel_SPEED
 
 %% Header
-% Hello Baptiste
+% Hello Davy
 % Fonction qui permet d'enregistrer les valeurs des structures de la
 % fonction calculPSTSPEED pour tout regrouper dans un seul et m?me tableau
 
